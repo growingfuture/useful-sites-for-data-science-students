@@ -24,7 +24,7 @@ useful sites for people who want to learn about data science.
 * (ENGLLISH) Kaggle : https://www.kaggle.com/datasets
 * (ENGLISH) GOOGLE DATASET SEARCH : https://toolbox.google.com/datasetsearch
 
-### General Formal Dataset
+### Formal Dataset
 * (KOREAN) 공공데이터포털 - Korean Gov. :  https://www.data.go.kr/
 * (ENGLISH) DATA.GOV - USA Gov. : https://www.data.gov/
 
