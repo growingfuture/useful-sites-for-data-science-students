@@ -16,6 +16,9 @@ useful sites for people who want to learn about data science.
 * (ENGLISH) CS231N - STANFORD UNIV. : http://cs231n.stanford.edu/2017/
 * (KOREAN) ratsgo's blog - Natural Language Processing & Paper Review : https://ratsgo.github.io/blog/categories/
 
+### Data Base
+* (KOREAN) SPARK, ELASTIC, REDIS and etc. https://github.com/freepsw/demo-spark-analytics
+
 -------------------------------------------------------
 
 ## Dataset
