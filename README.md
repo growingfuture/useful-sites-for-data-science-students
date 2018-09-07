@@ -9,6 +9,7 @@ useful sites for people who want to learn about data science.
 
 ### Machine Learning
 * (KOREAN) 데이터사이언스스쿨 - 이론과 수학기초 : https://datascienceschool.net/
+* (KOREAN) aailab kaist : https://www.youtube.com/channel/UC9caTTXVw19PtY07es58NDg/feed
 
 ### Deep Learning
 * (KOREAN) 모두를 위한 딥러닝 : https://bit.ly/2H9jnQS
